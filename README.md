@@ -14,7 +14,7 @@
 
 🎸 I play the guitar
 
-😎 Follow me on Twitter [@hrozan](https://twitter.com/HigorRozan)
+😎 Follow me on [Twitter](https://twitter.com/HigorRozan)
 
 <!--
 **hrozan/hrozan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
