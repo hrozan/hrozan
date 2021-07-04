@@ -2,17 +2,13 @@
 
 👷 I'm a __computer engineer__ and __software engineer__
 
-🇧🇷 I live in São Paulo, Brazil
+🇧🇷 I live in Brazil
 
-🖥 I love to study and understand how computer and programs works
+🤓 I'm currently working with __Typescript__
 
-🤓 I'm currently working with __Typescript__, __C#__ and __React__
-
-📚 I'm studying __Rust__, __F#__ and __Vue__
+📚 I'm studying __Rust__
 
 🐧 I love __Linux__ and __Open Source__ projects
-
-🎸 I play the guitar
 
 😎 Follow me on [Twitter](https://twitter.com/HigorRozan)
 
