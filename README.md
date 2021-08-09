@@ -2,9 +2,7 @@
 
 👷 I'm a __computer engineer__ and __software engineer__
 
-🇧🇷 I live in Brazil
-
-🤓 I'm currently working with __Typescript__
+🔭 I'm currently working with __Go__
 
 📚 I'm studying __Rust__
 
