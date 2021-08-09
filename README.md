@@ -4,6 +4,8 @@
 
 🔭 I'm currently working with __Go__
 
+💻 I know __Javascript__ and __Typescript__
+
 📚 I'm studying __Rust__
 
 🐧 I love __Linux__ and __Open Source__ projects
