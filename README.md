@@ -1,14 +1,10 @@
 # Hello, I'm Higor 👋
 
-👷 I'm a __computer engineer__ and __software engineer__
+👷 I'm a  __software engineer__ at [Lambda3](https://www.lambda3.com.br/) 
 
-🔭 I'm currently working with __Go__
+🔭 I'm currently working with __Typescript__ and __NodeJS__ in web application
 
-💻 I know __Javascript__ and __Typescript__
-
-📚 I'm studying __Rust__
-
-🐧 I love __Linux__ and __Open Source__ projects
+📚 I'm studying __Rust__ 
 
 😎 Follow me on [Twitter](https://twitter.com/HigorRozan)
 
