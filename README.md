@@ -1,7 +1,8 @@
-# Hi, I'm Higor 👋
+Hello! I'm Higor
+================
 
-👷 I'm a **Computer Engineer**
+I'm graduted in **computer engineer** at [UTFPR](http://www.utfpr.edu.br/).
 
-🔭 I'm currently working as a **Software Developer** building web APIs 
+I'm working as **software developer** building microservices with nodejs and typescript hosted on azure
 
-📚 I'm studying __Rust__ 
+I'm interest in low level programming and operating systems. I like to code in __typescript__, __lua__ and __rust__.  
