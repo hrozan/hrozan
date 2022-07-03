@@ -1,8 +1,3 @@
-Hello! I'm Higor
-================
+#  Hi! I'm Higor Rozan 
 
-I'm graduted in **computer engineer** at [UTFPR](http://www.utfpr.edu.br/).
-
-I'm working as **software developer** building microservices with nodejs and typescript hosted on azure
-
-I'm interest in low level programming and operating systems. I like to code in __typescript__, __lua__ and __rust__.  
+I'm graduted in **computer engineering** at [UTFPR](http://www.utfpr.edu.br/). Nowadays I'm working as **software engineer** building web applications with nodejs and typescript. My interest are low level programming, operating systems and programming languages.  
